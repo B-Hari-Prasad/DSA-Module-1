@@ -1,3 +1,22 @@
+/* Sum of Odd Digits 
+Given an integer value n, print the sum of odd digits present in n.
+Input Format
+A single integer n.
+Output Format
+Print the sum of odd digits present in n.
+
+Sample Input :
+1234567890
+
+Sample Output :
+25
+
+Explanation:
+The odd digits are 1, 3, 5, 7, 9.
+Sum = 1 + 3 + 5 + 7 + 9 = 25
+
+program :*/
+
 import static java.lang.System.out;
 import java.util.Scanner;
 

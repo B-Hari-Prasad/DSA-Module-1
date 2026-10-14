@@ -1,0 +1,18 @@
+# Introduction to Data Structures and Algorithms (DSA)
+
+Today, I started learning **Data Structures and Algorithms (DSA)** using Java.
+
+**What is DSA?**
+- **Data Structures:** Ways to organize and store data efficiently.
+- **Algorithms:** Step-by-step procedures to solve problems.
+
+**Why learn DSA?**
+- Improve problem-solving skills.
+- Write efficient and optimized code.
+- Build a strong foundation for coding interviews.
+
+I’m excited to practice coding problems, strengthen my logical thinking, and track my progress throughout this DSA journey. 🚀
+
+**Language:** Java
+
+#DSA #Java #CodingJourney #ProblemSolving

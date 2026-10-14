@@ -1,3 +1,15 @@
+//Program1
+/* Given an Array of Integers, find the sum of its elements . for example , if the array is [1,2,3] , the sum is 6.
+
+Input Formate :
+6
+1 2 3 4 10 11
+
+OutPut Formate :
+
+31
+
+Program :*/
 import static java.lang.System.out;
 import java.util.Scanner;
 
